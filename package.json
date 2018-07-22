@@ -1,0 +1,42 @@
+{
+  "name": "npm-storage",
+  "version": "0.0.1",
+  "description": "短小精悍的前端缓存插件，解决前端缓存问题",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack",
+    "lint": "eslint --ext .js src",
+    "example": "http-server -p 8880"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catbea/npm-storage.git"
+  },
+  "keywords": [
+    "storage"
+  ],
+  "author": "catbea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/catbea/npm-storage/issues"
+  },
+  "homepage": "https://github.com/catbea/npm-storage#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.6",
+    "babel-loader": "^7.1.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "eslint": "^5.2.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "^2.1.0",
+    "eslint-plugin-html": "^4.0.5",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
