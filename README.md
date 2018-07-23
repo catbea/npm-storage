@@ -34,10 +34,10 @@
 
 
 ## 源码下载
-(https://github.com/catbea/npm-storage/releases)
+https://github.com/catbea/npm-storage/releases
 
 ## 交流和提问
-(https://github.com/catbea/npm-storage/issues)
+https://github.com/catbea/npm-storage/issues
 
 ## 关于作者
 - 作者本人从事前端数年，热爱前端事业，热衷于为广大前端开发同学做一点小贡献。
