@@ -1,20 +1,20 @@
 # npm-storage
 短小精悍的前端缓存插件，解决前端内存泄漏问题
 
-##简介
-这是一个H5的缓存插件，在项目中经常会使用localStorage或sessionStorage来缓存数据，
-为了使代码更精炼整洁，有经验有能力的开发同学都会对缓存的方法做封装。
-作者已帮你造好了这个轮子，拿来即用！！！
-非常开心，您发现了“我”，请放心使用吧！！！
+## 简介
+-这是一个H5的缓存插件，在项目中经常会使用localStorage或sessionStorage来缓存数据，
+-为了使代码更精炼整洁，有经验有能力的开发同学都会对缓存的方法做封装。
+-作者已帮你造好了这个轮子，拿来即用！！！
+-非常开心，您发现了“我”，请放心使用吧！！！
 
-##安装 
+## 安装 
 使用npm：npm install npm-storage
 
 使用git
 一，ssh方式：git clone git@github.com:catbea/npm-storage.git
 二，https方式：git clone https://github.com/catbea/npm-storage.git
 
-##使用方式
+## 使用方式
 首先在html文件中引入js
 <script src="../dist/main.js"></script>
 
@@ -33,13 +33,13 @@ MyLStorage.remove(key);
 MyLStorage.clear();
 
 
-##源码下载
+## 源码下载
 https://github.com/catbea/npm-storage/releases
 
-##交流和提问
+## 交流和提问
 https://github.com/catbea/npm-storage/issues
 
-##关于作者
+## 关于作者
 作者本人从事前端数年，热爱前端事业，热衷于为广大前端开发同学做一点小贡献。
 在这条路上有你有我，一同向前~~~
 
