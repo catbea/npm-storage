@@ -1,6 +1,6 @@
 {
   "name": "npm-storage",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "短小精悍的前端缓存插件，解决前端内存泄漏问题",
   "main": "src/index.js",
   "scripts": {
