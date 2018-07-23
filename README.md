@@ -43,3 +43,8 @@ https://github.com/catbea/npm-storage/issues
 - 作者本人从事前端数年，热爱前端事业，热衷于为广大前端开发同学做一点小贡献。
 - 在这条路上有你有我，一同向前~~~
 
+## ending
+如果用的顺手，请给个小star!!!
+
+
+
