@@ -1,6 +1,9 @@
 # npm-storage
 短小精悍的前端缓存插件，解决前端内存泄漏问题
 
+## 官网地址
+https://catbea.github.io/npm-storage.github.io
+
 ## 简介
 - 这是一个H5的缓存插件，在项目中经常会使用localStorage或sessionStorage来缓存数据，
 - 为了使代码更精炼整洁，有经验有能力的开发同学都会对缓存的方法做封装。
@@ -36,6 +39,11 @@
 ## 源码下载
 https://github.com/catbea/npm-storage/releases
 
+## 快速使用
+### 简单接入的文档
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/use/README.md)
+
 ## 交流和提问
 https://github.com/catbea/npm-storage/issues
 
@@ -55,3 +63,4 @@ https://github.com/catbea/npm-storage/issues
 
 
 
+ 

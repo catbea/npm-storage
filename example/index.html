@@ -8,11 +8,30 @@
 </head>
 <body>
     <p>短小精悍的前端缓存插件，解决前端缓存问题</p>
-    <script src="../dist/main.js?104"></script>
+    <script src="../dist/main.js?105"></script>
     <script>
-        console.log(MyLStorage);
-        MyLStorage.set("aa","bb");
-        console.log(MyLStorage.get("aa"));
+        //测试 localStorage
+        // console.log(MyLStorage);
+        // MyLStorage.set("aa","bb");
+        // console.log(MyLStorage.get("aa"));
+        // setTimeout(function(){
+        //     MyLStorage.remove("aa");
+        // },2000);
+
+        // setTimeout(function(){
+        //     MyLStorage.clear();
+        // },5000)
+
+        //测试 sessionStorage
+        MySStorage.set("aa1","bb1");
+        console.log(MySStorage.get("aa1"));
+        setTimeout(function(){
+            MySStorage.remove("aa1");
+        },2000);
+
+        setTimeout(function(){
+            MySStorage.clear();
+        },5000)
     </script>
 </body>
 </html>

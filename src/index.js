@@ -134,3 +134,4 @@ const MySStorage = (function MySStorage(){
 
 window.MyLStorage = MyLStorage;
 window.MySStorage = MySStorage;
+
