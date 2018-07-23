@@ -11,8 +11,8 @@
 ### 使用npm：npm install npm-storage
 
 ### 使用git
-- 一，ssh方式：git clone git@github.com:catbea/npm-storage.git
-- 二，https方式：git clone https://github.com/catbea/npm-storage.git
+- 一，ssh方式：`git clone git@github.com:catbea/npm-storage.git`
+- 二，https方式：`git clone https://github.com/catbea/npm-storage.git`
 
 ## 使用方式
 首先在html文件中引入js（根据你项目的路径）
