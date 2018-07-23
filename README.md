@@ -47,11 +47,11 @@ https://github.com/catbea/npm-storage/issues
 - 如果用的顺手，请给个小star!!!
 - 满意的话，可以支持一下！！！
 - 加微信好友
-- ![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102702.jpg)
+![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102702.jpg)
 - 微信扫码支持
-- ![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102706wx.jpg)
+![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102706wx.jpg)
 - 支付宝扫码支持
-- ![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102711zfb.jpg)
+![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102711zfb.jpg)
 
 
 
