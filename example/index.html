@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>短小精悍的前端缓存插件，解决前端内存泄漏问题</title>
+</head>
+<body>
+    <p>短小精悍的前端缓存插件，解决前端缓存问题</p>
+    <script src="../dist/main.js?104"></script>
+    <script>
+        console.log(MyLStorage);
+        MyLStorage.set("aa","bb");
+        console.log(MyLStorage.get("aa"));
+    </script>
+</body>
+</html>
