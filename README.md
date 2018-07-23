@@ -44,10 +44,14 @@ https://github.com/catbea/npm-storage/issues
 - 在这条路上有你有我，一同向前~~~
 
 ## ending
-如果用的顺手，请给个小star!!!
-满意的话，可以支持一下！！！
-|加微信好友|微信扫码支持|支付宝扫码支持|
-|![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102702.jpg)|![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102706.jpg)|![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102711.jpg)|
+- 如果用的顺手，请给个小star!!!
+- 满意的话，可以支持一下！！！
+- 加微信好友
+- ![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102702.jpg)
+- 微信扫码支持
+- ![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102706wx.jpg)
+- 支付宝扫码支持
+- ![image](https://github.com/catbea/my-vue-ele/blob/master/20180723102711zfb.jpg)
 
 
 
