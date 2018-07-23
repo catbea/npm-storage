@@ -1,6 +1,9 @@
 # npm-storage
 短小精悍的前端缓存插件，解决前端内存泄漏问题
 
+## 项目地址
+https://github.com/catbea/npm-storage
+
 ## 官网地址
 https://catbea.github.io/npm-storage.github.io
 
