@@ -15,10 +15,10 @@
 - 二，https方式：git clone https://github.com/catbea/npm-storage.git
 
 ## 使用方式
-首先在html文件中引入js
+首先在html文件中引入js（根据你项目的路径）
 <script src="../dist/main.js"></script>
 
-- *（提示：众所周知，H5的缓存有两个，一是永久缓存localStorage，二是会话级缓存sessionStorage）
+- （提示：众所周知，H5的缓存有两个，一是永久缓存localStorage，二是会话级缓存sessionStorage）
 - 在本插件中
 - MyLStorage 代表localStorage 
 - MySStorage 代表sessionStorage
